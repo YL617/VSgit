@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u5BD2\u5047\u5C0F\u9879\u76EE\\",
+  "WorkspaceRootPath": "E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3C5A0BE-C8A7-494F-A584-0B6391CDD7EC}|\u5BD2\u5047\u5C0F\u9879\u76EE.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D3C5A0BE-C8A7-494F-A584-0B6391CDD7EC}|\u5BD2\u5047\u5C0F\u9879\u76EE.vcxproj|E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u7403\u7403\u4F5C\u6218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3C5A0BE-C8A7-494F-A584-0B6391CDD7EC}|\u5BD2\u5047\u5C0F\u9879\u76EE.vcxproj|solutionrelative:\u7403\u7403\u4F5C\u6218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C5A0BE-C8A7-494F-A584-0B6391CDD7EC}|\u5BD2\u5047\u5C0F\u9879\u76EE.vcxproj|E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D3C5A0BE-C8A7-494F-A584-0B6391CDD7EC}|\u5BD2\u5047\u5C0F\u9879\u76EE.vcxproj|solutionrelative:\u6D41\u661F\u96E8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,15 +27,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u6D41\u661F\u96E8.cpp",
-              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp",
-              "RelativeDocumentMoniker": "\u6D41\u661F\u96E8.cpp",
-              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp",
-              "RelativeToolTip": "\u6D41\u661F\u96E8.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "\u7403\u7403\u4F5C\u6218.cpp",
+              "DocumentMoniker": "E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u7403\u7403\u4F5C\u6218.cpp",
+              "RelativeDocumentMoniker": "\u7403\u7403\u4F5C\u6218.cpp",
+              "ToolTip": "E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u7403\u7403\u4F5C\u6218.cpp",
+              "RelativeToolTip": "\u7403\u7403\u4F5C\u6218.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-10T07:45:28.096Z",
+              "WhenOpened": "2026-02-05T08:34:33.545Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6D41\u661F\u96E8.cpp",
+              "DocumentMoniker": "E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp",
+              "RelativeDocumentMoniker": "\u6D41\u661F\u96E8.cpp",
+              "ToolTip": "E:\\Computer_language\\GitHub\\C\\\u5BD2\u5047\u5C0F\u9879\u76EE\\\u6D41\u661F\u96E8.cpp",
+              "RelativeToolTip": "\u6D41\u661F\u96E8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T07:45:28.096Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
