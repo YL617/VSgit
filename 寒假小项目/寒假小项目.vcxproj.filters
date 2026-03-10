@@ -18,5 +18,8 @@
     <ClCompile Include="流星雨.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="球球作战.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
