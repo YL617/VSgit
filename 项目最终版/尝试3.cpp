@@ -39,7 +39,7 @@ int main()
 	setbkcolor(BLACK);
 	cleardevice();
 	IMAGE img_mm;
-	loadimage(&img_mm, L"C:\\Users\\杨乐\\Desktop\\6876acd3d4314136df8deac25d4b6b0d.png", 1200, 600);   //加载图片（不覆盖）
+	loadimage(&img_mm, L"E:\\计算机语言相关\\C\\VS\\VSgit\\项目最终版\\图片\\6876acd3d4314136df8deac25d4b6b0d.png", 1200, 600);   //加载图片（不覆盖）
 
 	int new_button = centerText_button(1);         //保存鼠标的按键情况
 	int n1 = 0, n2 = 0, n3 = 0;

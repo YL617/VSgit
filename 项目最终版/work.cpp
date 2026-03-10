@@ -153,7 +153,7 @@ void define_tax(Table* con)     //函数2：确定职工扣税和实际工资
 
 void sort_worknumber(Table* con)                                             //对职工的顺序按工号自小到大排序
 {
-	for (int i = 0; i < con->Now_person; i++)                                                       //冒泡排序
+	for (int i = 0; i < con->Now_person; i++)                                                       
 	{
 		for (int j = i + 1; j < con->Now_person; j++)
 		{
@@ -183,7 +183,7 @@ void printf_worktable(Table* con)                                           //输
 
 void sort_realwage(Table* con)    //函数3：实发工资从高到低排序
 {
-	for (int i = 0; i < con->Now_person; i++)             //冒泡排序
+	for (int i = 0; i < con->Now_person; i++)             
 	{
 		for (int j = i + 1; j < con->Now_person; j++)
 		{

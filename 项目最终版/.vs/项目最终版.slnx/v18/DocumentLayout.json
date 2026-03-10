@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\",
+  "WorkspaceRootPath": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|solutionrelative:work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|solutionrelative:\u5C1D\u8BD53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79E9E67A-9277-4B6B-B41C-969435E5E1E1}|\u9879\u76EE\u6700\u7EC8\u7248.vcxproj|solutionrelative:work.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "work.h",
-              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h",
               "RelativeDocumentMoniker": "work.h",
-              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.h",
               "RelativeToolTip": "work.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -41,24 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "\u5C1D\u8BD53.cpp",
-              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp",
               "RelativeDocumentMoniker": "\u5C1D\u8BD53.cpp",
-              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\\u5C1D\u8BD53.cpp",
               "RelativeToolTip": "\u5C1D\u8BD53.cpp",
-              "ViewState": "AgIAALQBAAAAAAAAAAAQwCkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-07T06:34:28.933Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "work.cpp",
-              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp",
+              "DocumentMoniker": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp",
               "RelativeDocumentMoniker": "work.cpp",
-              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp",
+              "ToolTip": "E:\\\u8BA1\u7B97\u673A\u8BED\u8A00\u76F8\u5173\\C\\VS\\VSgit\\\u9879\u76EE\u6700\u7EC8\u7248\\work.cpp",
               "RelativeToolTip": "work.cpp",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAAOwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-04T13:57:17.518Z",
               "IsPinned": true,
